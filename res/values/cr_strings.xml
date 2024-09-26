@@ -69,6 +69,7 @@
     <string name="changelog_crdroid_error">Unable to load changelog</string>
 
     <!-- About crDroid -->
+    <string name="about_crdroid">About Stark OS</string>
     <string name="about_device_name">Device</string>
     <!-- App details: open play store link if app is user installed -->
     <string name="app_play_store">Google Play</string>
