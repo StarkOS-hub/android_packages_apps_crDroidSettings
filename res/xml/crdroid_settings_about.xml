@@ -23,43 +23,38 @@
     <PreferenceCategory
         android:title="Developed By">
         
-        <!-- Abhishek's profile with an image -->
         <Preference
-            android:icon="@drawable/ic_abhishek" <!-- Profile picture -->
+            android:icon="@drawable/ic_abhishek" 
             android:title="Abhishek"
             android:summary="Lead Developer, Founder">
             <intent android:action="android.intent.action.VIEW"
-                android:data="https://github.com/JigenxOhtsusuki"/> <!-- Example GitHub profile -->
+                android:data="https://github.com/JigenxOhtsusuki"/> 
         </Preference>
         
-        <!-- Manikanta's profile with an image -->
         <Preference
-            android:icon="@drawable/ic_manikanta" <!-- Profile picture -->
+            android:icon="@drawable/ic_manikanta"
             android:title="Manikanta"
             android:summary="Co-Lead, Co-Founder">
             <intent android:action="android.intent.action.VIEW"
-                android:data="https://github.com/FenixDecOps"/> <!-- Example GitHub profile -->
+                android:data="https://github.com/FenixDecOps"/> 
         </Preference>
-        
-        <!-- Roshan Ram's profile with an image -->
+
         <Preference
-            android:icon="@drawable/ic_roshan_ram" <!-- Profile picture -->
+            android:icon="@drawable/ic_roshan_ram" 
             android:title="Roshan Ram"
             android:summary="Co-Lead, Co-Founder">
             <intent android:action="android.intent.action.VIEW"
-                android:data="https://github.com/RengokuxKyojuro"/> <!-- Example GitHub profile -->
+                android:data="https://github.com/RengokuxKyojuro"/>
         </Preference>
-        
-        <!-- Vishwadika's profile with an image -->
+
         <Preference
-            android:icon="@drawable/ic_vishwadika" <!-- Profile picture -->
+            android:icon="@drawable/ic_vishwadika"
             android:title="Vishwadika"
             android:summary="Developer">
         </Preference>
-        
-        <!-- Kalyani's profile with an image -->
+
         <Preference
-            android:icon="@drawable/ic_kalyani" <!-- Profile picture -->
+            android:icon="@drawable/ic_kalyani"
             android:title="Kalyani"
             android:summary="Developer">
         </Preference>
