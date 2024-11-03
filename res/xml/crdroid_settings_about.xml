@@ -25,43 +25,11 @@
         
         <!-- Abhishek's profile with an image -->
         <Preference
-            android:icon="@drawable/ic_abhishek" <!-- Profile picture -->
+            android:icon="@drawable/ic_abhishek"
             android:title="Abhishek"
             android:summary="Lead Developer, Founder">
             <intent android:action="android.intent.action.VIEW"
-                android:data="https://github.com/JigenxOhtsusuki"/> <!-- Example GitHub profile -->
-        </Preference>
-        
-        <!-- Manikanta's profile with an image -->
-        <Preference
-            android:icon="@drawable/ic_manikanta" <!-- Profile picture -->
-            android:title="Manikanta"
-            android:summary="Co-Lead, Co-Founder">
-            <intent android:action="android.intent.action.VIEW"
-                android:data="https://github.com/FenixDecOps"/> <!-- Example GitHub profile -->
-        </Preference>
-        
-        <!-- Roshan Ram's profile with an image -->
-        <Preference
-            android:icon="@drawable/ic_roshan_ram" <!-- Profile picture -->
-            android:title="Roshan Ram"
-            android:summary="Co-Lead, Co-Founder">
-            <intent android:action="android.intent.action.VIEW"
-                android:data="https://github.com/RengokuxKyojuro"/> <!-- Example GitHub profile -->
-        </Preference>
-        
-        <!-- Vishwadika's profile with an image -->
-        <Preference
-            android:icon="@drawable/ic_vishwadika" <!-- Profile picture -->
-            android:title="Vishwadika"
-            android:summary="Developer">
-        </Preference>
-        
-        <!-- Kalyani's profile with an image -->
-        <Preference
-            android:icon="@drawable/ic_kalyani" <!-- Profile picture -->
-            android:title="Kalyani"
-            android:summary="Developer">
+                android:data="https://github.com/Jigen-Ohtsusuki"/>
         </Preference>
         
     </PreferenceCategory>
